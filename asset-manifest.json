@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.524ac26d.css",
+    "main.js": "/static/js/main.e16b9d1b.js",
+    "static/media/TrebuchetMS.ttf": "/static/media/TrebuchetMS.d69a72044b0a638fd1a5.ttf",
+    "static/media/TrebuchetMS-Bold.ttf": "/static/media/TrebuchetMS-Bold.b69cd0cd0562310312d7.ttf",
+    "static/media/Exo2-Bold.ttf": "/static/media/Exo2-Bold.fa1c543823d324357b28.ttf",
+    "static/media/Exo2-SemiBold.ttf": "/static/media/Exo2-SemiBold.95d0ff3ff1859cfab91a.ttf",
+    "static/media/Exo2-Medium.ttf": "/static/media/Exo2-Medium.519f34a8fe18c9561cae.ttf",
+    "static/media/Exo2-Light.ttf": "/static/media/Exo2-Light.4ae265a7bd0b2bbc5262.ttf",
+    "static/media/Exo2-Regular.ttf": "/static/media/Exo2-Regular.0305039fee62c2e6a71f.ttf",
+    "static/media/Exo2-ExtraLight.ttf": "/static/media/Exo2-ExtraLight.84c3ac5390238269feb2.ttf",
+    "static/media/Exo2-Thin.ttf": "/static/media/Exo2-Thin.d2da8078a320bf47bc87.ttf",
+    "static/media/cat.jpg": "/static/media/cat.5957078a5ae5d745a9d6.jpg",
+    "static/media/wallpaper.png": "/static/media/wallpaper.8b93e2127ee44e2a8146.png",
+    "index.html": "/index.html",
+    "main.524ac26d.css.map": "/static/css/main.524ac26d.css.map",
+    "main.e16b9d1b.js.map": "/static/js/main.e16b9d1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.524ac26d.css",
+    "static/js/main.e16b9d1b.js"
+  ]
+}
